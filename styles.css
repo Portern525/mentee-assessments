@@ -4,7 +4,7 @@ span,
 p,
 li,
 button {
-	font-family: 'Pacifica', Roboto;
+	<p style="font-family:Pacifica">
 }
 
 body {
